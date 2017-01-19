@@ -14,5 +14,7 @@ TeksiäTeksiäTeksiäTeksiäTeksiäTeksiäTeksiä
 
 TeksiäTeksiäTeksiäTeksiäTeksiäTeksiäTeksiäTeksiäTeksiäTeksiäTeksiä
 
-[Wikipedia](https://fi.wikipedia.org/wiki/)
 ![Wikipedia](https://cdn.downdetector.com/static/uploads/c/300/ca3e1/wikipedia-logo_1.png)
+
+[Wikipedia](https://fi.wikipedia.org/wiki/)
+
