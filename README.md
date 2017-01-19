@@ -18,3 +18,8 @@ TeksiäTeksiäTeksiäTeksiäTeksiäTeksiäTeksiäTeksiäTeksiäTeksiäTeksiä
 
 [Wikipedia](https://fi.wikipedia.org/wiki/)
 
+
+| Testi | kpl | e |
+|:------|-----|--:|
+|Testi1 | 55  | 10 |
+| Testi2 | 13 | 5  |
